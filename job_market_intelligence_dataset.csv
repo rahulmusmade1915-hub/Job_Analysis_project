@@ -1,0 +1,21 @@
+job_id,job_title,company,location,experience_years,employment_type,salary_lpa,skills,remote
+1,Data Scientist,TechNova,Pune,1,Full-time,8.5,Python;SQL;Machine Learning;Pandas,Yes
+2,Data Analyst,FinTechX,Mumbai,0,Full-time,5.5,Python;SQL;Excel;Power BI,No
+3,ML Engineer,AI Labs,Bengaluru,2,Full-time,12.0,Python;TensorFlow;Machine Learning;Docker,Yes
+4,Data Engineer,CloudData,Hyderabad,3,Full-time,11.5,Python;SQL;AWS;Spark,Yes
+5,Data Analyst,DataWorks,Pune,1,Full-time,6.0,SQL;Excel;Power BI;Tableau,No
+6,Data Scientist,AI Labs,Bengaluru,3,Full-time,15.0,Python;SQL;Machine Learning;Scikit-learn,Yes
+7,Business Analyst,FinTechX,Mumbai,2,Full-time,7.0,SQL;Excel;Power BI,No
+8,ML Engineer,TechNova,Pune,1,Full-time,10.0,Python;Machine Learning;PyTorch;Docker,Yes
+9,Data Scientist,CloudData,Hyderabad,4,Full-time,17.5,Python;SQL;TensorFlow;AWS,Yes
+10,Data Analyst,AnalyticsPro,Delhi,1,Full-time,6.5,Python;SQL;Excel;Tableau,No
+11,Data Engineer,CloudData,Pune,2,Full-time,10.5,Python;SQL;AWS;Spark,Yes
+12,Data Scientist,TechNova,Mumbai,2,Full-time,11.0,Python;SQL;Pandas;Machine Learning,No
+13,ML Engineer,AI Labs,Bengaluru,4,Full-time,18.0,Python;PyTorch;TensorFlow;Docker;AWS,Yes
+14,Data Analyst,AnalyticsPro,Pune,0,Full-time,5.0,SQL;Excel;Power BI,No
+15,Data Engineer,DataWorks,Hyderabad,5,Full-time,16.0,Python;SQL;Spark;AWS;Docker,Yes
+16,Data Scientist,FinTechX,Mumbai,1,Full-time,9.0,Python;SQL;Machine Learning;Pandas,Yes
+17,Business Analyst,DataWorks,Pune,2,Full-time,7.5,SQL;Excel;Tableau;Power BI,No
+18,Data Analyst,TechNova,Bengaluru,2,Full-time,8.0,Python;SQL;Power BI;Tableau,Yes
+19,ML Engineer,CloudData,Hyderabad,3,Full-time,14.0,Python;TensorFlow;Scikit-learn;AWS,Yes
+20,Data Scientist,AnalyticsPro,Delhi,5,Full-time,19.0,Python;SQL;Machine Learning;AWS;Docker,Yes
